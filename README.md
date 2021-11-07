@@ -1,5 +1,8 @@
 # Client-Refactoring
 
+The following application has been restructed without changing or adding to its external behavior and functionality. 
+
+
 line 7 html
 <title>Horiseon</title>
 
